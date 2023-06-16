@@ -1,0 +1,55 @@
+body{
+     /* background: linear-gradient(180deg , #ccc, #ddd 10%,#fff 20%); */
+     min-height: 1000px;
+}
+main{
+     width: 20%;
+}
+
+#search{
+    width: 600px;
+     margin-left: 150px;
+     border: 1px solid rgb(129, 129, 129);
+}
+.product{
+     font-weight: bold;
+     color: rgb(61, 34, 34);
+     margin-bottom: 2px;
+}
+.title{
+   
+     color: rgb(42, 42, 145);
+    
+}
+.icon{
+     position: absolute;
+     left: 95%;
+     top: 15%;
+     font-size: 30px;
+     background-color: rgb(231, 199, 199);
+     padding: 10px;
+}
+.price{
+     position: absolute;
+     left: 95%;
+     top: 55%;
+}
+.price p{
+     color: rgb(33, 33, 97);
+     font-weight: bold;
+     margin: 0;
+}
+.price h1{
+     color: rgb(33, 33, 97);
+     font-weight: bold;
+}
+.Vertical{
+     border-left: 1px solid rgb(211, 201, 201);
+     height: 100px;
+     position: absolute;
+     left: 85%;
+     top: 55%;
+}
+.stock{
+    color: rgb(85, 4, 4);
+}
